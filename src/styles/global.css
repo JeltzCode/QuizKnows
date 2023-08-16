@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500;700&family=Roboto:wght@300;400&family=Rubik:wght@300;400&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  /* padding-top: 200px; */
+  font-family: Karla, sans-serif;
+  background-color: #F5F7FB;
+  color: #293264;
+}
+
