@@ -1,5 +1,6 @@
 import '../styles/quizContainer.css'
 import QuizStart from './QuizStart'
+import QuizDisplay from './QuizDisplay'
 import QuizScore from './QuizScore'
 import React, {useState, useEffect} from 'react'
 import {nanoid} from 'nanoid'
