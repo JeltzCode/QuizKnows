@@ -43,8 +43,7 @@
 .button,
 .label,
 .select,
-.quiz-num
-{
+.quiz-num {
   user-select: none;
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
@@ -55,14 +54,14 @@
   border-radius: 15px;
 }
 
-.button {
-  background-color: #b4e4c3;
-  border: 2px solid #c7ebd2;
-}
-
 .label {
   background-color: #e3e2e2;
   border: 2px solid #ececec;
+}
+
+.button {
+  background-color: #b4e4c3;
+  border: 2px solid #c7ebd2;
 }
 
 .button:hover,
@@ -98,7 +97,7 @@
     top: -25%;
     right: -80%;
   }
-  
+
   .random-shape-path {
     transform: scale(5);
   }
@@ -109,7 +108,7 @@
     top: -45%;
     right: -70%;
   }
-  
+
   .random-shape-path {
     transform: scale(12);
   }
