@@ -68,7 +68,6 @@
     width: 280px;
     text-align: center;
     text-align-last: center;
-    color: currentColor;
     border-radius: 0px 0px 15px 15px;
     border: 2px solid #c7ebd2;
     border-top: 0;
@@ -87,6 +86,5 @@
   .start-btn,
   .reset-btn {
     width: 280px;
-    color: currentColor;
   }
 }
